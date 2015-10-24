@@ -9,9 +9,14 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SessionHelper</RootNamespace>
     <AssemblyName>SessionHelper</AssemblyName>
+<<<<<<< HEAD
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
+=======
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+>>>>>>> d7a42246c2bd9290f68d652cffecf26f6552ab17
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -21,7 +26,10 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+<<<<<<< HEAD
     <Prefer32Bit>false</Prefer32Bit>
+=======
+>>>>>>> d7a42246c2bd9290f68d652cffecf26f6552ab17
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -30,7 +38,10 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+<<<<<<< HEAD
     <Prefer32Bit>false</Prefer32Bit>
+=======
+>>>>>>> d7a42246c2bd9290f68d652cffecf26f6552ab17
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
