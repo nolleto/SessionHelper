@@ -3,7 +3,7 @@ Get and set typed objects in Session.
 
 ## Installation
 
-You can install by [NuGet Maneger](https://www.nuget.org/packages/SessionHelper/) or by [BuGet Console] by the command `PM> Install-Package SessionHelper`.
+You can install by [NuGet Manager](https://www.nuget.org/packages/SessionHelper/) or by NuGet Console by the command `PM> Install-Package SessionHelper`.
 
 ## Using
 
