@@ -9,7 +9,7 @@ You can install by [NuGet Manager](https://www.nuget.org/packages/SessionHelper/
 
 You can create in your project an class with all your variables in Session like this:
 
-```
+```csharp
 using SessionHelper;
 using SessionHelper.Models;
 
@@ -22,7 +22,7 @@ public static class SessionVariables
 
 So you can access your Sessions variables in all your project:
 
-```
+```csharp
 public void DoIt() 
 {
   SessionVariables.UserName.Set("Bruno");
